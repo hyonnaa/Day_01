@@ -1,6 +1,12 @@
 
 public class Default {
 	
+	
+	//package 패키지명;
+	//import 풀패키지명;
+	
+	
+	
 	//접근지정자 [그외지정자] class 클래스명  extends 부모클래스명 implments 인터페이스1, 인터페이스2 .... {
 	
 		//멤버변수
